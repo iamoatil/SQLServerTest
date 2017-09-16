@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [QH-20170827RDDE\Administrator]
+    FROM WINDOWS;
+
